@@ -1,3 +1,3 @@
 <?php
- phpinfo();
+ phpinfo("Prueba de Rollback1");
 ?>
